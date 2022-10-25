@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Lucas Chess
+Exec=/home/khori/LucasChessR/bin/LucasR
+Path=/home/khori/LucasChessR/bin
+Icon=/home/khori/LucasChessR/Resources/IntFiles/logo64r.png
+StartupNotify=true
+Terminal=false
+Categories=Game;
